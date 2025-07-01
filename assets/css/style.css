@@ -2,11 +2,11 @@
 # General
 --------------------------------------------------------------*/
 :root{
-  --primary: #DFA020;
-  --secondary: #2A447A;
-  --tertiary: #284B63;
+  --primary: #0259ca;
+  --secondary: #7fe0c8;
+  --tertiary: #0265a7;
   --accent: #FF5C5C;
-  --theme: #3C6D71;
+  --theme: #5fc9bb;
 }
 ::selection{
   background-color: var(--primary);
@@ -16,7 +16,7 @@
   background-color: var(--primary);
 }
 .bg-opacity-25{
-  background-color: #1E384A;
+  background-color: #85d6d2;
 }
 .bg-web-secondary{
   background-color: var(--secondary);
